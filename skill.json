@@ -1,0 +1,17 @@
+{
+  "name": "genpark-dapper-distributed-trace-sampler-skill",
+  "version": "1.0.0",
+  "description": "Google Dapper style distributed trace sampler combining probabilistic head-based sampling with tail-based anomaly and error preservation.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "dapper",
+    "distributed-tracing",
+    "trace-sampling",
+    "tail-sampling",
+    "observability"
+  ],
+  "dependencies": []
+}
